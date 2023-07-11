@@ -1,0 +1,7 @@
+# hyper parameters
+DEVICE: "cpu"
+LR: 0.0003
+Z_DIM: 64 # 128, 256
+IMAGE_DIM: 784 # 784 = 1 * 28 * 28
+BATCH_SIZE: 16
+NUM_EPOCHS: 100
